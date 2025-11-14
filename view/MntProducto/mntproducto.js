@@ -91,8 +91,14 @@ function guardaryeditar(e){
 
 
 function editar(prod_id){
-    console.log(prod_id);
+
+    $('#mdltitulo').html('Editar Registro');
+
+    $('#modalmantenimiento').modal('show');
+    
 };
+
+
 
 function eliminar(prod_id){
 
@@ -120,6 +126,8 @@ function eliminar(prod_id){
         };
     });
 };
+
+
 
 $(document).on('click', '#btnnuevo', function(){
     $('#mdltitulo').html('Nuevo Registro');

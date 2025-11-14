@@ -25,20 +25,20 @@
       </div>
       <div class="pd-x-20 pd-sm-x-30 pd-t-20 pd-sm-t-30">
         <h4 class="tx-gray-800 mg-b-5">Producto</h4>
-        <p class="mg-b-0">Desde esta ventana podrá dar antenimiento a productos</p>
+        <p class="mg-b-0">Desde esta ventana podrá dar mantenimiento a productos</p>
       </div>
 
       <div class="br-pagebody">
-
         <div class="br-section-wrapper">
           <h6 class="tx-gray-800 tx-uppercase tx-bold tx-14 mg-b-10">Mantenimiento de Productos</h6>
           <button id="btnnuevo" class="btn btn-outline-primary btn-block mg-b-10">Nuevo Registro</button>
 
           <div class="table-wrapper">
-            <table id="producto_data" class="table display responsive nowrap">
+            <table id="producto_data" class="table display responsive nowrap" style="width: 100%">
               <thead>
                 <tr>
                   <th class="wd-15p">Nombre</th>
+                  <th class="wd-15p">Descripción</th>
                   <th class="wd-15p"></th>
                   <th class="wd-20p"></th>
                 </tr>
