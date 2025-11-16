@@ -1,6 +1,6 @@
 🧾CRUD_MVC_UDEMY
 Este es un pequeño proyecto CRUD hecho con PHP, MySQL y JavaScript usando el modelo MVC. También se usa Bootstrap para el diseño y SweetAlert2 para las alertas.
-Me he basado en el repositorio [PERSONAL_CRUD2](https://github.com/Anders87x/PERSONAL_CRUD2)como guía-tutorial para aprender como funcionan las capas Modelo-Vista-Controlador y optimizar el uso
+Me he basado en el repositorio [PERSONAL_CRUD2](https://github.com/Anders87x/PERSONAL_CRUD2) de [Anders87x](Https://github.com/Anders87x) como guía-tutorial para aprender como funcionan las capas Modelo-Vista-Controlador y optimizar el uso
 de recursos para mi sistema web
 
 ⚙️ Requisitos
